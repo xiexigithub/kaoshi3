@@ -1,5 +1,4 @@
 // app/layout.tsx
-// import './globals.css'
 
 export const metadata = {
   title: '我的个人记账本',
